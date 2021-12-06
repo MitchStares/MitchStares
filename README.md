@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there!
+
+I am a data engineer, statistician, landscape ecologist and R nerd. I'm currently navigating the transition from ecology and environmental management to the data engineering landscape. I'm also a mechanical keyboard enthusiast ⌨️ with a coffee dependancy ☕ who plays d&d 🎲 a little too much. Let's see how much of that I can work into data projects.
+
+- R website (In need of updating): [staringatr.com](www.staringatr.com)
 
 <!--
 **MitchStares/MitchStares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
