@@ -1,6 +1,6 @@
 Hi there!
 
-I am a data engineer, statistician, landscape ecologist and R nerd. I'm currently navigating the transition from ecology and environmental management to the data engineering landscape. I'm also a mechanical keyboard enthusiast ⌨️ with a coffee dependancy ☕ who plays d&d 🎲 a little too much. Let's see how much of that I can work into data projects.
+I am a lead data engineer specialising in data architecture, solution design and performant big data pipelines. I started my career as a landscape fire ecologist and statistician. I'm also a mechanical keyboard enthusiast ⌨️ with a coffee dependancy ☕ who plays d&d 🎲 a little too much. Let's see how much of that I can work into data projects.
 
 - R website (In need of updating): [staringatr.com](www.staringatr.com)
 
